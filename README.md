@@ -1,7 +1,6 @@
-# Detecting-Strategic-Anomalies-in-Online-Poker-Summery
+Detecting-Strategic-Anomalies-in-Online-Poker-Summery
 Building AI Cours project 
-**Idea: OpeningLeadCheats**  
-**Building AI Course Project - An AI Idea for Analyzing Opening Leads in Bridge and Detecting Anomalies**
+
 
 ---
 
